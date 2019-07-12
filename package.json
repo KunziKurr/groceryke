@@ -1,0 +1,14 @@
+{
+  "name": "Groceryke",
+  "version": "1.0.0",
+  "description": "Online Grocery Store. With Delivery ",
+  "main": "server.js",
+  "repository": "https://github.com/KunziKurr/groceryke",
+  "author": "Korir",
+  "license": "MIT",
+  "private": null,
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0"
+  }
+}
